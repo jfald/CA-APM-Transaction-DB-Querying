@@ -1,7 +1,7 @@
 # CA-APM-Transaction-DB-Querying
 Query the CA APM SmartStor or Event Database using an Event query, and kickout the information into a CSV file.
 
-This was initially developed a few years ago and is just now being shared. I will release a .jar file soon. 
+This was initially developed a few years ago and is just now being shared. A zip file with the jar and example script has been released. 
 
 
 ## Readme.txt for tdbq.jar file
