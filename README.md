@@ -19,7 +19,7 @@ Server,Process,Time,URL or Method,Metric Path,Error1,Error2
 
 If the last two errors are equal then "Error2" is empty.
 
-The IntroscopeJDBC.jar file should be in the Classpath. 
+The IntroscopeJDBC.jar file should be in the Classpath. There is a META-INF/MANIFEST.MF file in the jar file that will indicate the class-path.  
 
 ## Compatibility
 This is known to work with CA APM 9.7 and 10
