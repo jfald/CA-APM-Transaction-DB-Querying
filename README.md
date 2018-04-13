@@ -4,8 +4,9 @@ Query the CA APM SmartStor or Event Database using an Event query, and kickout t
 This was initially developed a few years ago and is just now being shared. I will release a .jar file soon. 
 
 
-Readme.txt for tdbq.jar file (This hasn't been released publicly yet.)
------------- Version 1.2 ------------
+## Readme.txt for tdbq.jar file
+(This hasn't been released publicly yet.)
+
 This program is like the "Query History Event" window in Workstation. It was 
 designed to get around the limit of returning 500 results per query. 500 results 
 is very limited when looking over large time frames. The number of results will 
@@ -20,7 +21,7 @@ If the last two errors are equal then "Error2" is empty.
 
 The IntroscopeJDBC.jar file should be in the Classpath. 
 
-## Compatibility. 
+## Compatibility
 This is known to work with CA APM 9.7 and 10
 For some reason the order of elements in XML changed in CA APM 9.7. I updated the code to take the new output so this will not work with versions previous to 9.7.  
 
