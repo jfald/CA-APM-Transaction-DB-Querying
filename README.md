@@ -16,7 +16,7 @@ The initial release is version 1.2. Using the information in in the Description 
 
 ## APM version
 This is known to work with CA APM 9.7 and 10.x
-For some reason the order of elements in XML changed in CA APM 9.7. I updated the code to take the new output so this will not work with versions previous to 9.7. This shouldn't be a problem as 9.7 and previous releases are not supported anymore.
+For some reason the order of elements in XML changed in CA APM 9.7. I updated the code to take the new output so this will not work with versions previous to 9.7. This shouldn't be a problem as version prior to 9.7 are not supported by CA anymore.
 
 ## Limitations
 There is more information than just the errors in the transaction DB. This just extracts error information.
